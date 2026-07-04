@@ -1,0 +1,1 @@
+class SegmentTree:\n    def __init__(self, nums):\n        self.n = len(nums)\n        self.tree = [0] * (2 * self.n)\n        self.build(nums)\n\n    def build(self, nums):\n        self.tree[self.n:self.n + len(nums)] = nums\n        for i in range(self.n - 1, 0, -1):\n            self.tree[i] = self.tree[i * 2] + self.tree[i * 2 + 1]\n

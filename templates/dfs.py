@@ -1,0 +1,1 @@
+def dfs(start):\n    """Placeholder DFS template."""\n    return []\n
