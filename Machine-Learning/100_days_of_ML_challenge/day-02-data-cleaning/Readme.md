@@ -10,7 +10,7 @@
 ## Code
 The Jupyter notebook in this folder contains my complete code.
 
-## Results
+
 ✅ Final missing values: 0
 ✅ Clean dataset ready for modeling!
 
