@@ -1,4 +1,4 @@
-# Day 02: Titanic Data Cleaning 🚢
+# Day 02: Titanic Data Cleaning 
 
 ## What I Learned Today
 - Found missing values using `isnull().sum()`
