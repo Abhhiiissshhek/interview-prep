@@ -1,6 +1,6 @@
 # variables in python
 
-name = "Alex"
+name = "Alexender"
 age = 20
 marks = 96
 
