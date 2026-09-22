@@ -1,4 +1,4 @@
-# Day 07: Logistic Regression - Theory + From Scratch 🧮
+# Day 07: Logistic Regression - Theory + From Scratch 
 
 ## 📌 Overview
 Today is a **TWO-PART** day! 
