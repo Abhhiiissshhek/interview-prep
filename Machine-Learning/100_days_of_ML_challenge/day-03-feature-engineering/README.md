@@ -1,4 +1,4 @@
-# Day 03: Feature Engineering on Titanic Dataset 🚢
+# Day 03: Feature Engineering on Titanic Dataset 
 
 ## 📌 What I Learned Today
 Feature Engineering = creating new features from existing data to improve ML models.
