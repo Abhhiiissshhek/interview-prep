@@ -1,4 +1,4 @@
-# Day 02: Titanic Data Cleaning 🚢
+# Day 02: Titanic Data Cleaning 
 
 ## What I Learned Today
 - Found missing values using `isnull().sum()`
@@ -10,7 +10,7 @@
 ## Code
 The Jupyter notebook in this folder contains my complete code.
 
-## Results
+
 ✅ Final missing values: 0
 ✅ Clean dataset ready for modeling!
 

@@ -1,8 +1,8 @@
 # variables in python
 
-name = "Alex"
+name = "Alexender"
 age = 20
-marks = 95
+marks = 96
 
 print(name)
 print(age)
