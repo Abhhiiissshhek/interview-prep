@@ -6,7 +6,7 @@ On **Day 17**, I learned and implemented the **Random Forest algorithm** using t
 
 ---
 
-## 📌 What is Random Forest?
+## What is Random Forest?
 
 Random Forest is an **ensemble machine learning algorithm** that combines multiple **Decision Trees** to improve prediction accuracy.
 
@@ -19,7 +19,7 @@ Instead of relying on a single tree, it builds many trees and combines their pre
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Dataset used: **Titanic Dataset**
 
@@ -37,7 +37,7 @@ Target variable:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -45,7 +45,7 @@ Target variable:
 
 ---
 
-## 🧠 Steps Performed
+## Steps Performed
 
 1. Loaded the dataset using Pandas
 2. Selected relevant features
@@ -56,7 +56,7 @@ Target variable:
 
 ---
 
-## 💻 Example Code
+## Example Code
 
 
 from sklearn.ensemble import RandomForestClassifier
