@@ -55,6 +55,6 @@ public:
 };
 
 
-learn 2 thing.. 
-1.before sloving thing of best logic which can exits..
-2.it's completly normal to ignore else block
+// learn 2 thing.. 
+// 1.before sloving thing of best logic which can exits..
+// 2.it's completly normal to ignore else block
