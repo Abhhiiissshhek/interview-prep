@@ -61,4 +61,4 @@ int main() {
 
 
 
-// in a single attempt.. cuz i sloved it this morning <)
+// in a single attempt.. cuz i sloved it this morning :<)
